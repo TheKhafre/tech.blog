@@ -1,6 +1,6 @@
 ---
 title: "What Happens When we type google.com and hit enter?"
-datePublished: Sun Apr 16 2023 21:36:38 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Jan 01 2024 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clgjxg2uh000009mg1hqm6uqb
 slug: what-happens-when-we-type-googlecom-and-hit-enter
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cYyqhdbJ9TI/upload/d30e7bd2a43c081f03e151013139f32f.jpeg
