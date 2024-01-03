@@ -2,7 +2,7 @@
 title: "How does the Internet Works?"
 seoTitle: "How the internet works"
 seoDescription: "This article will help you understand how the internet works. you will also learn about what powers the internet and who controls the internet you use."
-datePublished: Wed Jan 03 2024 12:59:59 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Dec 31 2023 23:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqxscuu7000308lf36j9grve
 slug: how-does-the-internet-works
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/ZiQkhI7417A/upload/0594a36f4fdfeb2a42396df05d788990.jpeg
